@@ -9,7 +9,7 @@ function del(){
 }
 
 function allclear(){
-    arun.value='0';
+    arun.value='';
 }
 
 function eqto(){
